@@ -27,7 +27,8 @@ pic-a-day
 * [Socket IO](https://socket.io)
 * [Anymate.css](https://github.com/daneden/animate.css)
 * [JQuery](https://Jquery.com) + [JQuery UI](https://Jqueryui.com) 
-
+* [Node.js](http://nodejs.org)
+* [Express.js](http://expressjs.com)
 
 
 The Internet is full of creative people. Let's do this!
